@@ -1,4 +1,6 @@
-sch: https://www.aliexpress.us/w/wholesale-SX1278-LoRa.html?spm=a2g0o.home.search.0
+sch:
+- https://www.aliexpress.us/w/wholesale-SX1278-LoRa.html?spm=a2g0o.home.search.0
+- https://www.aliexpress.us/w/wholesale-SX1278-LoRa-spread-spectrum-wireless-module%252F433MHz.html?spm=a2g0o.home.search.0
 
 index:
 - [SX1276 Wireless Transceiver Module Lora 868Mhz 915MHz Modulespread Spectrum Long-Range Wireless Communication LORA / GFSK ESP32](https://www.aliexpress.us/item/3256804910012621.html)
