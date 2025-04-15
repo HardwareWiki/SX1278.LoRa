@@ -11,6 +11,9 @@
 - [SX1268 LLCC68 SX1262 Wireless Transceiver Module 433Mhz 915MHz spread Spectrum Long-Range Wireless Communication LORA/GFSK](https://www.aliexpress.us/item/3256805528988472.html)
 - [RA-01 SX1278 LORA Wireless Spread Spectrum Transmission Module 433M Serial Spread Spectrum Wireless Module with Spring Antenna](https://www.aliexpress.us/item/3256808214198382.html)
 - [RA-01 SX1278 LORA Wireless Spread Spectrum Board 433M Serial Spread Spectrum Transmission Module SPI Interface Most Distant 15KM](https://www.aliexpress.us/item/3256808338296632.html)
+- [Lora Module SX1276 SX1278 868M/915Mhz Wireless loraTransceiver Module spread Spectrum Long-Range Wireless Communication](https://www.aliexpress.us/item/3256807154834282.html)
+- [1~10PCS RF LoRa module SX1278 chip PM1280 Long-Distance communication Receiver and Transmitter SPI LORA IOT+1pcs 433MHz antenna](https://www.aliexpress.us/item/3256802157129952.html)
+- [1~10PCS RA-01 RA-02 LoRa SX1278 433Mhz Wireless Spread Spectrum Transmission Module Most Distant 10KM For arduino](https://www.aliexpress.us/item/3256806641815937.html)
 
 # Dollar Express:
 - [HC-12 wireless microcontroller serial, 433 long-range, 1000M with antenna for Bluetooth](https://www.aliexpress.com/ssr/300000512/BundleDeals2?spm=a2g0o.productlist.main.1.12273a94nYRnvw&productIds=1005008500796100:12000045439184505&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct&utparam-url=scene%3Asearch%7Cquery_from%3A)
