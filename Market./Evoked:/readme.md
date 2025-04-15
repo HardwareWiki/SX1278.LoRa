@@ -6,5 +6,3 @@
 - [Ra-01 RA-02 LoRa SX1278 433Mhz Wireless Spread Spectrum Transmission Module Most Distant 10KM For arduino](https://www.aliexpress.us/item/3256806641753932.html)
 - [Ra-01 LoRa SX1278 433M Wireless Spread Spectrum Transmission Module Most Distant 10KM](https://www.aliexpress.us/item/3256805610351398.html)
 
-## 8 KK Range
-- [LoRa Module LRO2 Product Kit ASR6601 433M Wireless Long Range 8km Spread Spectrum Transmission DIP for Smart Meter Reading](https://www.aliexpress.us/item/3256807073845179.html)
